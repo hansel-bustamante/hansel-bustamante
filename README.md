@@ -38,7 +38,7 @@ Ingeniero de Sistemas Informáticos (UMSA) con enfoque en el desarrollo de softw
 
 ---
 
-### 📫 Contacto y Colaboración
+### Contacto y Colaboración
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hansel-alain-bustamante-callisaya/" target="_blank">
