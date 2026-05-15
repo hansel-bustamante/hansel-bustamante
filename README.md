@@ -38,5 +38,14 @@ Ingeniero de Sistemas Informáticos (UMSA) con enfoque en el desarrollo de softw
 
 ---
 
-### Contacto
-<a href="https://www.linkedin.com/in/hansel-alain-bustamante-callisaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:hanselbustamantehb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+---
+
+### Contacto y Colaboración
+<p align="left">
+  <a href="https://www.linkedin.com/in/hansel-alain-bustamante-callisaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hanselbustamantehb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
