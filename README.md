@@ -9,7 +9,7 @@
 </p>
 
 ### Perfil Profesional
-Ingeniero de Sistemas Informáticos (**UMSA**) especializado en el desarrollo de soluciones integrales con **Laravel** y movilidad **Android** (Offline-First).
+Ingeniero de Sistemas Informáticos (UMSA) con enfoque en el desarrollo de software escalable, arquitecturas Full Stack y soluciones móviles de alta disponibilidad. Experiencia sólida integrando sistemas complejos, gestión de datos y automatización de procesos.
 
 ---
 
